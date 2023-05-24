@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\source\pipeIT\pipeIT\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-05-21T19:21:16.9851170Z;True|2023-05-21T19:16:22.6737781+00:00;True|2023-05-21T19:15:13.9003596+00:00;True|2023-05-14T18:45:28.3628383+00:00;True|2023-05-13T20:51:25.5070618+00:00;True|2023-05-12T15:01:49.5273708+00:00;True|2023-05-12T13:42:31.0156788+00:00;True|2023-05-11T18:20:47.6586199+00:00;True|2023-05-11T12:28:43.3083456+00:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

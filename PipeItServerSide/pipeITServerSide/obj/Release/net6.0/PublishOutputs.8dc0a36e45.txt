@@ -1,0 +1,11 @@
+C:\source\pipeIT\pipeIT\obj\Release\net6.0\PubTmp\Out\pipeIT.exe
+C:\source\pipeIT\pipeIT\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\source\pipeIT\pipeIT\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\source\pipeIT\pipeIT\obj\Release\net6.0\PubTmp\Out\pipeIT.dll
+C:\source\pipeIT\pipeIT\obj\Release\net6.0\PubTmp\Out\pipeIT.deps.json
+C:\source\pipeIT\pipeIT\obj\Release\net6.0\PubTmp\Out\pipeIT.runtimeconfig.json
+C:\source\pipeIT\pipeIT\obj\Release\net6.0\PubTmp\Out\pipeIT.pdb
+C:\source\pipeIT\pipeIT\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\source\pipeIT\pipeIT\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\source\pipeIT\pipeIT\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\source\pipeIT\pipeIT\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
