@@ -11,7 +11,7 @@ using UnityEngine.Networking;
 public class ElevationAPIHandler : Singleton<ElevationAPIHandler>
 {
     [SerializeField]
-    private string apiKey = "AIzaSyC1JAibcPNNYAFit2tPm41_IiXfZBvbqrs";
+    private string apiKey = '0'; //The key can't be public on github
     /// <summary>
     /// The elevation API has returned a value for given position
     /// </summary>
