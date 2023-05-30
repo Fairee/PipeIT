@@ -8,3 +8,5 @@ The bin generator which creates a binary file from the shapefile that accelerate
 The server side which works with the .shp file, .dbs file, .shx file and the newly created .bin file and gives the clients request values from it.
 
 The unity project with the whole application
+
+A preview can be found at https://youtu.be/jakLwyApA1M
