@@ -10,3 +10,6 @@ The server side which works with the .shp file, .dbs file, .shx file and the new
 The unity project with the whole application
 
 A preview can be found at https://youtu.be/jakLwyApA1M
+
+
+Currently the server is not active, so you cannot try the application without setting up the server first!
